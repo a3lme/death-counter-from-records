@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "CLAHE",
+    "grayscale",
+    "imread",
+    "imwrite",
+    "imshow",
+    "limg",
+    "ssim"
+  ]
+}
