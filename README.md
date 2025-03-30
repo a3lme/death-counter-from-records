@@ -6,7 +6,7 @@
 - Split video to images every 2 seconds: `ffmpeg -i st1.mp4 -s 960x540 -r 0.5 st1/output_%06d.jpg`
 - Prepare sample image with death label and save it as sample_full.jpg
 - Install python requirements.txt
-- Corp image to only death label and config by `corp.py` (for kazan with 960x540 already configured)
+- Corp image to only death label and config by `crop.py` (for kazan with 960x540 already configured)
 - Configure LINKS, PART and DEATH_COUNTER in `main.py` and run for each folder with screenshots
 
 
